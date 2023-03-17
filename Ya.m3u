@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",LPL春季赛虎牙
 https://epg.112114.xyz/huya/660000
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",LPL春季赛二路
@@ -14,6 +13,5 @@ https://epg.112114.xyz/huya/333003
 https://epg.112114.xyz/huya/518518
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",Doinb
 https://epg.112114.xyz/douyu/252140
-
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",LCK春季赛
 https://epg.112114.xyz/huya/660001
