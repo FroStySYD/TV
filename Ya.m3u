@@ -5,6 +5,8 @@ https://epg.112114.xyz/huya/660000
 https://epg.112114.xyz/huya/660137
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",LPL春季赛斗鱼
 https://epg.112114.xyz/douyu/288016
+#EXTINF:-1 tvg-logo="null" group-title="英雄联盟",LPL春季赛B站
+https://epg.112114.xyz/bili/6
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",瞳夕
 https://epg.112114.xyz/huya/814814
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",Zz1tai姿态
@@ -13,5 +15,13 @@ https://epg.112114.xyz/huya/333003
 https://epg.112114.xyz/huya/518518
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",Doinb
 https://epg.112114.xyz/douyu/252140
+#EXTINF:-1 tvg-logo="null" group-title="英雄联盟",东北大鹌鹑
+https://epg.112114.xyz/douyu/96291
+#EXTINF:-1 tvg-logo="null" group-title="英雄联盟",Uzi
+https://epg.112114.xyz/bili/555
+#EXTINF:-1 tvg-logo="null" group-title="英雄联盟",解说Mage
+https://epg.112114.xyz/bili/22508985
+#EXTINF:-1 tvg-logo="null" group-title="英雄联盟",德云色
+https://epg.112114.xyz/bili/7777
 #EXTINF:-1 tvg-logo="null" group-title="英雄联盟",LCK春季赛
 https://epg.112114.xyz/huya/660001
